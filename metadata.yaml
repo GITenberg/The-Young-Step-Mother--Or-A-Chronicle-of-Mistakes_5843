@@ -1,0 +1,32 @@
+_repo: The-Young-Step-Mother--Or-A-Chronicle-of-Mistakes_5843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: Have you talked it over with her?' said Mr. Ferrars, as his little slender
+  wife met him under the beeches that made an avenue of the lane leading to Fairmead
+  vicarage.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Stepmothers -- Fiction'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: The Young Step-Mother; Or, A Chronicle of Mistakes
+url: http://www.gutenberg.org/ebooks/5843
